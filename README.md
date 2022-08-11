@@ -1,6 +1,4 @@
-### Hola, soy Julián 👋 <hr>
-
-Un desarrollador Frontend de Bahia Blanca, Buenos Aires
+### Hola👋, soy Julián
 
 ```js
 const julianfuhr = {
@@ -11,20 +9,16 @@ const julianfuhr = {
 ```
 You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/juli%C3%A1n-fuhr-0659b123b/)
-- [Twitter](https://twitter.com/julian_fuhr)
+- [Twitter](https://twitter.com/JulianFuhr32)
 
 
-<!--
-**JulianFuhr/JulianFuhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**JulianFuhr/JulianFuhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Un desarrollador Frontend de Bahia Blanca, Buenos Aires
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 En busca de trabajo para poder aprender y sumar experiencia
+- 🌱 I’m currently learning Node.js
+- 👯 Busco ayudar y colaborar en Frontend projects
+- 📫 How to reach me: julifuhr32@gmail.com
+
+
