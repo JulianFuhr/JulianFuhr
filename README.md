@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Julián 👋
+
+```js
+const julianfuhr = {
+    pronouns: "he"| "him",
+    code: [ Javascript, HTML, CSS ],
+    tools: [ React, Node ]
+    }
+```
+You can find me 🌎:
+- [Linkedin](https://www.linkedin.com/in/juli%C3%A1n-fuhr-0659b123b/)
+- [Twitter](https://twitter.com/julian_fuhr)
+
 
 <!--
 **JulianFuhr/JulianFuhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
