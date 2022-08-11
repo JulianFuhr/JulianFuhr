@@ -1,4 +1,6 @@
-### Hi, I'm Julián 👋
+### Hola, soy Julián 👋 <hr>
+
+Un desarrollador Frontend de Bahia Blanca, Buenos Aires
 
 ```js
 const julianfuhr = {
@@ -9,7 +11,7 @@ const julianfuhr = {
 ```
 You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/juli%C3%A1n-fuhr-0659b123b/)
-- [Twitter](https://twitter.com/JulianFuhr32)
+- [Twitter](https://twitter.com/julian_fuhr)
 
 
 <!--
